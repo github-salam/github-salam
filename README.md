@@ -11,8 +11,7 @@ I'm Abdus Salam, a Computer Science and Engineering student at Daffodil Internat
 
 Feel free to explore my projects, connect with me, or check out my YouTube channel to learn more! Let's code something amazing together!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=github-salam&show_icons=true&theme=radical)
-
+[![Abdus Salam's GitHub stats](https://github-readme-stats.vercel.app/api?username=github-salam&show_icons=true&theme=radical)](https://github.com/github-salam)
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -25,7 +24,6 @@ Feel free to explore my projects, connect with me, or check out my YouTube chann
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
 # 💻 Featured YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -35,3 +33,10 @@ Feel free to explore my projects, connect with me, or check out my YouTube chann
 [![Complete Guide to Python Operators | Day 04](https://ytcards.demolab.com/?id=5CWnx4_i4S0&title=Complete+Guide+to+Python+Operators+|+Day+04&lang=en&timestamp=1722362400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4758 "Complete Guide to Python Operators | Day 04")](https://youtu.be/5CWnx4_i4S0?si=avT0OqPbbLJNxhtw)
 
 <!-- END YOUTUBE-CARDS -->
+
+---
+
+🌟 **"The best way to predict the future is to create it." — Abraham Lincoln**
+
+Let's build something incredible together, one line of code at a time!
+
